@@ -10,7 +10,7 @@ I am a technology enthusiast focused on developing efficient solutions, bridging
 
 * 🎓 **Electronic and Telecommunications Engineering** student at UNESP (GPA: 8.15/10).
 * 💡 Currently focused on **Software Engineering** and **Distributed Systems**.
-* 🔬 **Researcher (FAPESP/CNPq)**: Developing neural networks for optical channel equalization, focusing on minimizing bit error rate (BER) and computational cost (FLOPs). 
+* 🔬 **Researcher (FAPESP/CNPq)**: Developing neural networks for optical channel equalization, focusing on minimizing bit error ratio (BER) and computational cost (FLOPs). 
 * 🧪 **Optimization**: Experienced in multi-objective optimization of neural network hyperparameters using NSGA-II.
 * 🤖 **Spirit Robotics Member**: Developing embedded systems (ESP32) with PID control and Kalman filters for real-time navigation and stability.
 
