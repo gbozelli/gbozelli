@@ -1,119 +1,132 @@
-# Gabriel Bozelli
+# Hi, I'm Gabriel Bozelli 👋
 
 **Software Engineering Intern @ VTEX**  
-**Electronic and Telecommunications Engineering Student @ UNESP**
+**B.Sc. in Electronic and Telecommunications Engineering @ UNESP**
+
+I'm passionate about building scalable software, distributed systems, AI-powered applications, and digital communication systems. My experience spans production software engineering, machine learning research, embedded systems, and networking.
 
 ---
 
-## Professional Summary
+## 🚀 Currently Working On
 
-Engineering student with a strong background in **telecommunications, embedded systems, and software engineering**, currently working as a **Software Engineering Intern at VTEX**. Experienced in applying theoretical and experimental engineering knowledge to real-world problems, with emphasis on **distributed systems, digital communications, and machine learning for physical-layer optimization**.
-
-Active undergraduate researcher supported by **FAPESP/CNPq**, focusing on neural-network-based equalization for optical communication channels, with multi-objective optimization targeting **Bit Error Rate (BER)** reduction and **computational efficiency (FLOPs)**.
-
----
-
-## Education
-
-**B.Sc. in Electronic and Telecommunications Engineering**  
-São Paulo State University (UNESP)  
-GPA: **8.15 / 10.0**
+- 🤖 AI-powered applications and AI Agents
+- ⚛️ React & TypeScript
+- 🐍 Python backend services
+- 🌐 Distributed systems
+- 📂 File ingestion pipelines
+- 📈 OpenSearch telemetry & observability
+- 🎯 Software architecture and developer tooling
 
 ---
 
-## Research & Technical Interests
+## 🛠 Tech Stack
 
-- Optical and Digital Communications  
-- Neural Networks for Signal Processing  
-- Multi-objective Optimization (NSGA-II)  
-- Distributed Systems and Networking  
-- Embedded Control Systems (PID, Kalman Filtering)  
-- RF and Microwave Circuit Design  
+### Languages
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
 
-## Technical Skills
+### Frontend
 
-### Programming Languages
-- **Python** (NumPy, Matplotlib)
-- **C / C++**
-- **JavaScript**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 
-### Machine Learning & Optimization
-- TensorFlow, Keras  
-- Hyperparameter Optimization  
-- Multi-objective Evolutionary Algorithms (NSGA-II)  
+### Backend
 
-### Embedded Systems & Hardware
-- ESP32 Microcontrollers  
-- Real-time Control Systems  
-- Sensor Fusion (Kalman Filters)  
-- PCB Design (EasyEDA)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 
-### RF & Communications
-- Digital Modulation Schemes (QAM)  
-- Microstrip Line Design  
-- Electromagnetic Simulation (Ansys HFSS)  
+### AI & Data
 
-### Tools & Environments
-- Git / GitHub  
-- Linux  
-- Raylib  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square)
+
+### Tools
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## Selected Projects
+## ⭐ Featured Projects
 
-### NodeSystem Communication  
-**Peer-to-Peer Network Simulation Framework**  
-- Designed an asynchronous P2P communication system  
-- Implemented routing strategies and message handling  
-- Real-time KPI monitoring (latency, throughput)  
-
-Repository: https://github.com/gbozelli/NodeSystemComunication
-
----
-
-### 16QAM Simulator  
-**Digital Communication System Simulator**  
-- Signal generation and demodulation for 16-QAM  
-- AWGN channel modeling  
-- Performance evaluation via BER analysis  
-
-Repository: https://github.com/gbozelli/16QAM-Simulator
+| Project | Description |
+|---------|-------------|
+| **DigitalCoherentSystemSimulator** | End-to-end coherent optical communication simulator with DSP pipeline. |
+| **NodeSystemCommunication** | Peer-to-peer distributed network simulator written in C with routing algorithms and real-time KPIs. |
+| **file-ingestion-python** | File ingestion pipeline implemented in Python. |
+| **16QAM Simulator** | Complete digital communication simulator with BER evaluation. |
+| **Embedded Systems Course** | Internal course covering C, Arduino, Git, software architecture, and embedded systems. |
 
 ---
 
-### 90° Hybrid Coupler (3 GHz)  
-**RF/Microwave Circuit Design and Validation**  
-- Microstrip-based hybrid coupler design  
-- Full-wave EM simulation using Ansys HFSS  
-- Experimental validation and characterization  
+## 🔬 Research
 
-Repository: https://github.com/gbozelli/90HybridCoupler
+Former **FAPESP/CNPq Undergraduate Researcher**.
 
----
+Worked on machine learning for coherent optical communication systems, focusing on:
 
-## Research & Academic Activities
-
-- Undergraduate Researcher funded by **FAPESP/CNPq**  
-- Neural-network-based optical channel equalization  
-- Multi-objective optimization targeting BER × FLOPs trade-offs  
+- Neural network equalization
+- Multi-objective optimization (NSGA-II)
+- BER reduction
+- Computational efficiency (FLOPs)
+- Signal processing
 
 ---
 
-## Honors & Awards
+## 🤖 Robotics
 
-- **Oral Presentation**, IOPC SBFoton Conference (2025)  
-- **National Phase Selection**, UNESP Undergraduate Research Congress  
-  - 2023, 2024, 2025  
-- **10th Place & Honorable Mention**,  
-  35th UNESP Undergraduate Research Congress 
+Technical Mentor at **Spirit Robotics Team**.
+
+Responsible for mentoring new members through an internal engineering course covering:
+
+- C Programming
+- Embedded Systems
+- Arduino
+- Git & GitHub
+- Algorithms
+- Data Structures
+- Software Architecture
+- Engineering Best Practices
+
+Also contributed to:
+
+- ESP32 development
+- PID controllers
+- PCB Design
+- Robotics simulations
+- Genetic algorithm optimization
 
 ---
 
-## Contact
+## 🏆 Awards
 
-- **Email:** gabriel.bozelli@unesp.br  
-- **LinkedIn:** https://www.linkedin.com/in/gabriel-bozelli-dias/  
-- **GitHub:** https://github.com/gbozelli  
+- 🥇 Oral Presentation — IOPC SBFoton
+- 🏅 10th Place — XXXV UNESP Undergraduate Research Congress
+- 🎓 Multiple participations in UNESP Undergraduate Research Congress
+
+---
+
+## 📈 GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbozelli&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbozelli&layout=compact)
+
+---
+
+## 📫 Connect with me
+
+- 💼 LinkedIn: https://linkedin.com/in/gabriel-bozelli-dias
+- 📧 Email: gabriel.bozelli@unesp.br
+
+---
+
